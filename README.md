@@ -31,7 +31,7 @@ O cabeçalho apresenta uma imagem de logotipo animada, enquanto o formulário po
 Para mais informações ou contato, você pode me encontrar nos seguintes canais:
 
 - Instagram: [@elielhenriquedepaula](https://www.instagram.com/elielhenriquedepaula/)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/eliel-de-paula-9a50ab280/)
+- LinkedIn: [Eliel Henrique](https://www.linkedin.com/in/eliel-de-paula-9a50ab280/)
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida, sugestão ou comentário relacionado a este projeto.
 
