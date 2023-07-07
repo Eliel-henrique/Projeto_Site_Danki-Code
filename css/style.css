@@ -50,7 +50,7 @@ html,body{
 .container-banner{
     width: 100%;
     padding: 0 2%;
-    height: 557px;
+    height: calc(557px - 30px);
     background-image: url('../images/header_bg.png');
     background-size: cover;
     background-position: center;
@@ -63,7 +63,7 @@ html,body{
 .form{
     padding: 20px;
     width: 400px;
-    height: calc(100% + 30px);
+    height: 100%;
     float: right;
     position: relative;
     top: -15px;
