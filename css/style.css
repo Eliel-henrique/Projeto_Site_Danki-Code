@@ -1,3 +1,7 @@
+:root{
+    --corPadrao: #212343
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -23,7 +27,7 @@ html,body{
     width: 100%;
     padding: 0 2%;
     height: 60px;
-    background-color: #212343;
+    background-color: var(--corPadrao);
 }
 
 .header img{
